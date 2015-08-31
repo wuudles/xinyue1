@@ -13,8 +13,12 @@ something in the reading that you disagree with).
 Your write ups will be given a check minus, check, or check plus.  We expect
 most students will get checks.
 
-A *check minus*
+We expect the writeups to be written in complete sentences (no bullet-points)
+and to have been checked for grammar and spelling.
 
-A *check* means 
+A *check minus*: Summary is illogical, incorrect, or incoherent.
 
-A *check plus* means
+A *check*: Summary is correct, complete, and convincing.
+
+A *check plus*: Summary is correct, complete, and convincing, and subsequent
+discussion is insightful/novel.
