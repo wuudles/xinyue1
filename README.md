@@ -1,4 +1,4 @@
-# Individual work
+# Individual work for Stat 159
 
 This repository is how you will communicate individually with the teaching
 staff.  You will submit your reading assignments, quizzes, and homeworks using
