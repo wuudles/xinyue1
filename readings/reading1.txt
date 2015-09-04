@@ -1,5 +1,3 @@
 This article basically is talking about the importance of sophisticating computational tools in the biology, and introducing some useful tools and tips for programming. Generally speaking, the whole article is separated into three parts, for the user of low, intermedia and high level. For beginner, one should be first get used to bash shell and common command in used to manipulate data. For programmer has a higher lever, the article is more focused on coding manners, such as write code document, split module and code refactoring. Moreover, this article also introduce version control tools like Git and SVN, both are quite convenience for group project that members can modify files together and merge them. And each version of the file can be tracked easily.
 Base on my own experience, I am really curious about how code can be transfer between programs, such as transfer .R code into .py files. I used to do a project using R, while then I find I have to use Python to construct a rotated block. How to incorporate two piece of different codes into one troubles me a lot. This is the topic I wanna to further explore.
 
-
-This is the change to look for.
